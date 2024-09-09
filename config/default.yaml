@@ -1,0 +1,10 @@
+device   : cuda
+save_dir : 'cache'
+train    :
+  image_size   : [ 320, 320 ]
+  batch_size   : 8
+  num_workers  : 8
+  epochs       : 10
+  eval_interval: 1
+  save_interval: 5
+  freeze       : [ ]

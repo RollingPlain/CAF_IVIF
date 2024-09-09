@@ -1,0 +1,5 @@
+kornia==0.7.3
+numpy==1.22.0
+opencv_python==4.10.0.84
+PyYAML==6.0.2
+tqdm==4.66.4
